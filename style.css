@@ -1,0 +1,14 @@
+.katex-display>.katex{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+}
+
+.st-emotion-cache-1qg05tj{
+    margin-left: 10px;
+}
+
+.mpld3-figure{
+    display: flex;
+    align-items: flex-start;
+}
