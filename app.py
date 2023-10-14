@@ -14,7 +14,7 @@ st_style = """
         <style>
         #MainMenu {visibility: visible;}
         footer {visibility: hidden;}
-        header {visibility: visible;}
+        header {visibility: hidden;}
         </style>
         """
 st.markdown(st_style, unsafe_allow_html=True)
