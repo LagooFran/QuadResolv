@@ -7,3 +7,4 @@ Libs needed:
 - Matplotlib
 - Nunpy
 
+This app has been published in [Streamlit community cloud](https://quadresolv.streamlit.app/).
