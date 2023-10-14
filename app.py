@@ -55,7 +55,7 @@ if solveButton == True:
     defaultText = st.empty()
     try:
         with st.spinner('Asking Bhaskara...'):
-            time.sleep(4)
+            time.sleep(2)
             answer, graph, = st.columns(2)
             with answer:
                 x1, x2 = q.solveQuad(int(a),int(b),int(c))
