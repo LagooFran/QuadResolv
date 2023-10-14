@@ -10,5 +10,5 @@ Libs needed:
 - Matplotlib
 - Nunpy
 
-- **or:**  
+**or:**  
 Test the app using the [Streamlit community cloud](https://quadresolv.streamlit.app/).
