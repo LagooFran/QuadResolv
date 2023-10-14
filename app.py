@@ -1,8 +1,6 @@
 import streamlit as st
 import quadSolver as q
 import time
-import mpld3
-import streamlit.components.v1 as components
 
 #Set wide mode as default
 st.set_page_config(layout="wide")
